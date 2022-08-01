@@ -26,7 +26,7 @@ drop index address on addresses ;
 
 
 
-### My performance on ryzen 5 3500x, ssd, 16ram in docker
+### My performance on ryzen 5 3500x, ssd, 16ram in docker on 10 mln rows
 ### NO INDEX
 ```bash
 node ./src/getByAddressOne.js
